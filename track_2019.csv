@@ -1,0 +1,101 @@
+,name,album,artist,release_date,length,popularity,danceability,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature
+0,Old Town Road - Remix,7 EP,Lil Nas X,2019-06-21,157066,85,0.878,0.0533,0.878,0.619,0.0,0.113,-5.56,0.102,136.041,4
+1,bad guy,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",Billie Eilish,2019-03-29,194087,90,0.701,0.328,0.701,0.425,0.13,0.1,-10.965,0.375,135.128,4
+2,Señorita,Shawn Mendes (Deluxe),Shawn Mendes,2019-06-19,190799,83,0.759,0.0392,0.759,0.548,0.0,0.0828,-6.049,0.029,116.967,4
+3,7 rings,"thank u, next",Ariana Grande,2019-02-08,178626,88,0.778,0.592,0.778,0.317,0.0,0.0881,-10.732,0.334,140.048,4
+4,Sunflower - Spider-Man: Into the Spider-Verse,Hollywood's Bleeding,Post Malone,2019-09-06,157560,84,0.755,0.533,0.755,0.522,0.0,0.0685,-4.368,0.0575,89.96,4
+5,Strike a Pose (feat. Aitch),Strike a Pose (feat. Aitch),Young T & Bugsey,2019-06-06,214203,69,0.531,0.0107,0.531,0.581,1.62e-05,0.101,-5.801,0.101,137.776,5
+6,Without Me,Without Me,Halsey,2018-10-04,201660,84,0.752,0.297,0.752,0.488,9.11e-06,0.0936,-7.05,0.0705,136.041,4
+7,Options,Roots,NSG,2020-06-19,240081,61,0.836,0.389,0.836,0.621,9.16e-05,0.104,-4.684,0.0894,101.993,4
+8,Shallow,A Star Is Born Soundtrack,Lady Gaga,2018-10-05,215733,87,0.572,0.371,0.572,0.385,0.0,0.231,-6.362,0.0308,95.799,4
+9,Ladbroke Grove,AJ Tracey,AJ Tracey,2019-02-08,190537,75,0.903,0.0939,0.903,0.839,0.0,0.102,-9.447,0.208,133.986,4
+10,Someone You Loved,Divinely Uninspired To A Hellish Extent,Lewis Capaldi,2019-05-17,182160,92,0.501,0.751,0.501,0.405,0.0,0.105,-5.679,0.0319,109.891,4
+11,Keisha & Becky - Remix,Keisha & Becky (Remix),Russ Millions,2019-04-11,252906,72,0.863,0.251,0.863,0.471,0.0,0.121,-9.545,0.478,140.969,4
+12,I Don't Care (with Justin Bieber),No.6 Collaborations Project,Ed Sheeran,2019-07-12,219946,81,0.798,0.0902,0.798,0.676,0.0,0.0894,-5.041,0.0442,101.956,4
+13,Wow.,Hollywood's Bleeding,Post Malone,2019-09-06,149546,86,0.829,0.136,0.829,0.539,1.78e-06,0.103,-7.359,0.208,99.96,4
+14,Con Calma,Con Calma,Daddy Yankee,2019-01-24,193226,84,0.737,0.11,0.737,0.86,1.94e-06,0.0574,-2.652,0.0593,93.989,4
+15,Happier,Happier,Marshmello,2018-08-17,214289,87,0.687,0.191,0.687,0.792,0.0,0.167,-2.749,0.0452,100.015,4
+16,Calma - Remix,Calma (Remix),Pedro Capó,2018-10-05,238200,83,0.826,0.323,0.826,0.773,0.0,0.143,-4.218,0.0524,126.899,4
+17,"thank u, next","thank u, next",Ariana Grande,2019-02-08,207320,86,0.717,0.229,0.717,0.653,0.0,0.101,-5.634,0.0658,106.966,4
+18,Sucker,Happiness Begins,Jonas Brothers,2019-06-07,181026,85,0.842,0.0427,0.842,0.734,0.0,0.106,-5.065,0.0588,137.958,4
+19,Sweet but Psycho,Sweet but Psycho,Ava Max,2018-08-17,187436,86,0.719,0.0691,0.719,0.704,0.0,0.166,-4.724,0.0476,133.002,4
+20,Dancing With A Stranger (with Normani),Dancing With A Stranger (with Normani),Sam Smith,2019-01-11,171029,85,0.741,0.45,0.741,0.52,1.97e-06,0.222,-7.513,0.0656,102.998,4
+21,bury a friend,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",Billie Eilish,2019-03-29,193143,83,0.905,0.74,0.905,0.389,0.162,0.106,-14.505,0.332,120.046,4
+22,Old Town Road,7 EP,Lil Nas X,2019-06-21,113000,81,0.907,0.0578,0.907,0.53,2.23e-06,0.101,-6.112,0.127,135.998,4
+23,Talk (feat. Disclosure),Free Spirit,Khalid,2019-04-05,197573,79,0.901,0.051,0.901,0.4,0.0,0.0599,-8.575,0.126,135.984,4
+24,"break up with your girlfriend, i'm bored","thank u, next",Ariana Grande,2019-02-08,190440,81,0.726,0.0421,0.726,0.554,0.0,0.106,-5.29,0.0917,169.999,4
+25,MIDDLE CHILD,MIDDLE CHILD,J. Cole,2019-01-23,213593,84,0.837,0.149,0.837,0.364,0.0,0.271,-11.713,0.276,123.984,4
+26,when the party's over,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",Billie Eilish,2019-03-29,196077,87,0.367,0.978,0.367,0.111,3.97e-05,0.0897,-14.084,0.0972,82.642,4
+27,Goodbyes (Feat. Young Thug),Goodbyes (Feat. Young Thug),Post Malone,2019-07-05,174960,12,0.58,0.447,0.58,0.653,0.0,0.111,-3.818,0.0745,150.231,4
+28,Beautiful People (feat. Khalid),No.6 Collaborations Project,Ed Sheeran,2019-07-12,197866,80,0.64,0.124,0.64,0.647,0.0,0.0801,-8.114,0.186,92.979,4
+29,High Hopes,Pray for the Wicked,Panic! At The Disco,2018-06-22,190946,85,0.579,0.193,0.579,0.904,0.0,0.064,-2.729,0.0618,82.014,4
+30,"Taki Taki (feat. Selena Gomez, Ozuna & Cardi B)",Carte Blanche,DJ Snake,2019-07-25,212500,73,0.842,0.157,0.842,0.801,4.82e-06,0.0642,-4.167,0.228,95.881,4
+31,Ransom,We Love You Tecca,Lil Tecca,2019-08-30,131240,86,0.745,0.0204,0.745,0.642,0.0,0.0658,-6.257,0.287,179.974,4
+32,SICKO MODE,ASTROWORLD,Travis Scott,2018-08-03,312820,90,0.834,0.00513,0.834,0.73,0.0,0.124,-3.714,0.222,155.008,4
+33,lovely (with Khalid),lovely (with Khalid),Billie Eilish,2018-04-19,200185,89,0.351,0.934,0.351,0.296,0.0,0.095,-10.109,0.0333,115.284,4
+34,Going Bad (feat. Drake),Championships,Meek Mill,2018-11-30,180522,83,0.889,0.259,0.889,0.496,0.0,0.252,-6.365,0.0905,86.003,4
+35,Don't Call Me Up,Ivy To Roses (Mixtape),Mabel,2019-01-18,178480,83,0.674,0.296,0.674,0.881,3.01e-06,0.0793,-2.853,0.147,98.994,4
+36,Callaita,Callaita,Bad Bunny,2019-05-31,250533,84,0.61,0.6,0.61,0.624,2.12e-06,0.243,-4.773,0.309,176.169,4
+37,Truth Hurts,Cuz I Love You (Deluxe),Lizzo,2019-05-03,173325,74,0.715,0.11,0.715,0.624,0.0,0.123,-3.046,0.114,158.087,4
+38,Eastside (with Halsey & Khalid),FRIENDS KEEP SECRETS,benny blanco,2018-12-07,170769,76,0.632,0.549,0.632,0.686,0.0,0.2,-7.665,0.243,89.949,4
+39,Bohemian Rhapsody - 2011 Mix,A Night At The Opera (2011 Remaster),Queen,1975-11-21,354320,84,0.414,0.271,0.414,0.404,0.0,0.3,-9.928,0.0499,71.105,4
+40,Secreto,Secreto,Anuel AA,2019-01-15,258800,77,0.807,0.602,0.807,0.803,0.00853,0.136,-4.156,0.126,91.987,4
+41,MIA (feat. Drake),MIA (feat. Drake),Bad Bunny,2018-10-11,210367,81,0.817,0.0141,0.817,0.539,0.000496,0.099,-6.349,0.0621,97.062,4
+42,Otro Trago,Sueños,Sech,2019-04-19,225933,79,0.746,0.136,0.746,0.7,0.000159,0.11,-4.669,0.341,176.044,4
+43,i'm so tired...,i'm so tired...,Lauv,2019-01-24,162582,26,0.599,0.176,0.599,0.733,0.0,0.242,-7.058,0.203,102.211,4
+44,Piece Of Your Heart,Piece Of Your Heart,MEDUZA,2019-02-01,152913,85,0.677,0.0404,0.677,0.744,0.00016,0.074,-6.806,0.0295,124.08,4
+45,China,China,Anuel AA,2019-07-19,301714,84,0.786,0.0846,0.786,0.808,0.000289,0.0822,-3.702,0.0882,105.027,4
+46,SOS (feat. Aloe Blacc),TIM,Avicii,2019-06-06,157202,80,0.802,0.272,0.802,0.645,0.0,0.119,-6.181,0.0715,100.001,4
+47,Better Now,beerbongs & bentleys,Post Malone,2018-04-27,231266,86,0.68,0.331,0.68,0.578,0.0,0.135,-5.804,0.04,145.038,4
+48,Adan y Eva,Homerun,Paulo Londra,2019-05-23,256971,72,0.767,0.323,0.767,0.709,0.0,0.0745,-4.47,0.336,171.993,4
+49,Let Me Down Slowly,Narrated For You,Alec Benjamin,2018-11-16,169353,85,0.652,0.74,0.652,0.557,0.0,0.124,-5.714,0.0318,150.073,4
+50,Soltera - Remix,Épico,Lunay,2019-10-25,266086,73,0.795,0.361,0.795,0.783,0.0,0.437,-4.271,0.0432,92.01,4
+51,Doin' Time,Norman Fucking Rockwell!,Lana Del Rey,2019-08-30,202192,77,0.649,0.372,0.649,0.538,0.00632,0.0951,-11.196,0.0519,144.979,4
+52,rockstar (feat. 21 Savage),beerbongs & bentleys,Post Malone,2018-04-27,218146,87,0.585,0.124,0.585,0.52,7.01e-05,0.131,-6.136,0.0712,159.801,4
+53,The London (feat. J. Cole & Travis Scott),The London (feat. J. Cole & Travis Scott),Young Thug,2019-05-23,200106,79,0.796,0.0247,0.796,0.586,0.0,0.132,-6.946,0.147,97.981,4
+54,Light On,Heard It In A Past Life,Maggie Rogers,2019-01-18,233880,75,0.657,0.201,0.657,0.569,1.38e-05,0.126,-6.287,0.0542,102.054,4
+55,EARFQUAKE,IGOR,"Tyler, The Creator",2019-05-17,190066,83,0.554,0.23,0.554,0.498,5.98e-06,0.795,-8.866,0.0685,79.635,4
+56,Lover,Lover,Taylor Swift,2019-08-23,221306,81,0.359,0.492,0.359,0.543,1.58e-05,0.118,-7.582,0.0919,68.534,4
+57,Never Really Over,Never Really Over,Katy Perry,2019-05-31,223523,83,0.77,0.194,0.77,0.882,0.0,0.316,-4.792,0.0602,99.991,4
+58,Juicy,Juicy,Doja Cat,2019-08-15,202333,67,0.786,0.0856,0.786,0.658,0.0,0.0689,-2.61,0.0661,170.037,4
+59,Slide Away,Slide Away,Miley Cyrus,2019-08-16,233654,80,0.53,0.17,0.53,0.538,2.83e-06,0.248,-6.672,0.0335,148.051,4
+60,Kill This Love,KILL THIS LOVE,BLACKPINK,2019-04-05,189052,81,0.738,0.32,0.738,0.861,0.00175,0.325,-4.141,0.237,131.974,4
+61,Nights Like This (feat. Ty Dolla $ign),While We Wait,Kehlani,2019-02-22,201787,79,0.61,0.367,0.61,0.725,0.0,0.154,-5.131,0.15,146.163,4
+62,Liar,Romance,Camila Cabello,2019-12-06,207038,74,0.74,0.0169,0.74,0.498,0.00282,0.319,-6.684,0.0456,98.016,4
+63,Lose You To Love Me,Lose You To Love Me,Selena Gomez,2019-10-23,206458,20,0.505,0.576,0.505,0.34,0.0,0.21,-9.005,0.0438,101.993,4
+64,Don't Start Now,Don't Start Now,Dua Lipa,2019-10-31,183290,89,0.794,0.0125,0.794,0.793,0.0,0.0952,-4.521,0.0842,123.941,4
+65,On A Roll,On A Roll,Ashley O,2019-06-14,154447,67,0.737,0.077,0.737,0.81,0.0,0.0523,-6.354,0.0896,125.005,4
+66,"10,000 Hours (with Justin Bieber)","10,000 Hours (with Justin Bieber)",Dan + Shay,2019-10-04,167693,86,0.654,0.153,0.654,0.63,0.0,0.111,-4.644,0.0259,89.991,4
+67,Boy With Luv (feat. Halsey),MAP OF THE SOUL : PERSONA,BTS,2019-04-12,229773,85,0.645,0.0923,0.645,0.862,0.0,0.192,-4.757,0.0965,119.991,4
+68,Motivation,Motivation,Normani,2019-08-16,193837,79,0.599,0.0192,0.599,0.887,1.21e-06,0.3,-3.967,0.0984,170.918,4
+69,Easier,Easier,5 Seconds of Summer,2019-05-23,157492,27,0.505,0.489,0.505,0.428,0.0,0.0977,-5.604,0.221,175.813,4
+70,What I Like About You (feat. Theresa Rex),What I Like About You (feat. Theresa Rex),Jonas Blue,2019-03-22,220396,77,0.46,0.289,0.46,0.8,6.16e-06,0.121,-3.584,0.05,102.46,4
+71,Post Malone (feat. RANI),Magnets EP,Sam Feldt,2019-05-24,174444,82,0.59,0.0771,0.59,0.642,0.0,0.105,-3.87,0.122,107.356,4
+72,Don’t Feel Like Crying,Don't Feel Like Crying,Sigrid,2019-01-17,157010,59,0.749,0.156,0.749,0.814,0.0,0.0673,-3.769,0.0404,119.964,4
+73,So Am I,So Am I,Ava Max,2019-03-07,183026,81,0.682,0.0737,0.682,0.656,0.0,0.353,-4.67,0.0435,130.089,4
+74,Outnumbered,Outnumbered,Dermot Kennedy,2019-06-13,245699,75,0.614,0.247,0.614,0.684,0.0,0.0976,-5.79,0.157,156.85,4
+75,Good as Hell,Cuz I Love You (Super Deluxe),Lizzo,2019-04-17,159735,76,0.682,0.256,0.682,0.919,0.0,0.442,-3.18,0.0875,95.982,4
+76,Lost Without You,Freya Ridings,Freya Ridings,2019-07-19,225853,72,0.386,0.932,0.386,0.136,0.0,0.0653,-9.267,0.0458,67.016,3
+77,Mad Love,High Expectations,Mabel,2019-08-02,169813,55,0.631,0.675,0.631,0.803,0.0,0.11,-2.974,0.155,198.065,4
+78,Here With Me,Here With Me,Marshmello,2019-03-08,156346,81,0.791,0.0623,0.791,0.565,0.0,0.156,-3.933,0.0439,99.961,4
+79,All Day And Night,All Day And Night (Jax Jones & Martin Solveig Present Europa),Jax Jones,2019-03-28,169303,67,0.585,0.269,0.585,0.782,0.0,0.156,-4.101,0.0897,121.908,4
+80,Boasty (feat. Idris Elba),Boasty (feat. Idris Elba),Wiley,2019-01-22,177185,71,0.887,0.00915,0.887,0.765,0.000872,0.0907,-5.207,0.0669,102.958,4
+81,Wish You Well,Wish You Well,Sigala,2019-05-24,205653,73,0.669,0.128,0.669,0.895,0.0,0.297,-3.787,0.0575,124.975,4
+82,Cross Me (feat. Chance the Rapper & PnB Rock),Cross Me (feat. Chance the Rapper & PnB Rock),Ed Sheeran,2019-05-24,206186,73,0.746,0.214,0.746,0.787,0.0,0.0669,-6.373,0.12,95.005,4
+83,Sorry,Sorry,Joel Corry,2019-04-05,188640,74,0.744,0.0547,0.744,0.79,0.000802,0.32,-4.617,0.0562,125.002,4
+84,Ride It,Ride It,Regard,2019-07-26,157605,90,0.88,0.177,0.88,0.751,6.43e-05,0.106,-4.258,0.0874,117.948,4
+85,Nothing Breaks Like a Heart (feat. Miley Cyrus),Nothing Breaks Like a Heart (feat. Miley Cyrus),Mark Ronson,2018-11-30,217466,78,0.601,0.00987,0.601,0.794,1.36e-06,0.388,-5.844,0.0671,114.066,4
+86,Grace,Divinely Uninspired To A Hellish Extent,Lewis Capaldi,2019-05-17,185657,73,0.722,0.435,0.722,0.565,0.0,0.165,-5.848,0.0335,104.483,4
+87,Higher Love,Higher Love,Kygo,2019-06-28,228267,85,0.693,0.0154,0.693,0.678,6.05e-06,0.101,-7.159,0.0324,103.952,4
+88,3 Nights,"Don't Forget About Me, Demos",Dominic Fike,2018-10-16,177666,83,0.815,0.223,0.815,0.518,0.0,0.104,-6.594,0.0897,151.891,4
+89,Antisocial (with Travis Scott),No.6 Collaborations Project,Ed Sheeran,2019-07-12,161746,72,0.716,0.132,0.716,0.823,0.0,0.361,-5.313,0.0495,151.957,4
+90,Just You and I,What a Time To Be Alive,Tom Walker,2019-03-01,174982,67,0.567,0.456,0.567,0.696,0.0,0.113,-5.416,0.301,92.061,4
+91,Bruises,Divinely Uninspired To A Hellish Extent,Lewis Capaldi,2019-05-17,220492,85,0.736,0.946,0.736,0.308,0.0,0.186,-7.83,0.0677,111.202,4
+92,Location (feat. Burna Boy),PSYCHODRAMA,Dave,2019-03-08,241293,79,0.812,0.271,0.812,0.496,0.0,0.0955,-5.969,0.297,109.979,4
+93,Dance Monkey,Dance Monkey (Stripped Back) / Dance Monkey,Tones And I,2019-10-17,209438,93,0.824,0.692,0.824,0.588,0.000104,0.149,-6.4,0.0924,98.027,4
+94,Take Me Back to London (feat. Stormzy),No.6 Collaborations Project,Ed Sheeran,2019-07-12,189733,73,0.885,0.219,0.885,0.762,0.0,0.162,-5.513,0.216,138.058,4
+95,Vossi Bop,Vossi Bop,Stormzy,2019-04-26,196266,73,0.682,0.13,0.682,0.653,0.00116,0.129,-6.062,0.339,188.115,4
+96,Hold Me While You Wait,Divinely Uninspired To A Hellish Extent,Lewis Capaldi,2019-05-17,205686,83,0.688,0.443,0.688,0.53,0.0,0.0995,-5.507,0.0333,106.958,4
+97,Giant (with Rag'n'Bone Man),Giant (with Rag'n'Bone Man),Calvin Harris,2019-01-11,229184,81,0.807,0.016,0.807,0.887,0.000503,0.0811,-4.311,0.0361,122.015,4
+98,Robbery,Death Race For Love,Juice WRLD,2019-03-08,240050,90,0.685,0.328,0.685,0.692,0.0,0.153,-5.122,0.0457,159.966,5
+99,Walk Me Home,Walk Me Home,P!nk,2019-02-20,177390,74,0.652,0.0519,0.652,0.453,0.0,0.179,-6.119,0.0445,88.038,3
